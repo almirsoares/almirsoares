@@ -9,36 +9,46 @@
 
 ### 🧩 Sobre Mim
 
-🔄 **Retomando** minha jornada na tecnologia e explorando novas possibilidades todos os dias.  
-🧠 MBTI: **ISTP** | 🦅 Orgulho da **Corvinal**!  
+Sou o Almir, um curioso nato, entusiasta da lógica, e sempre pronto para aprender algo novo. Depois de um tempo longe, retornei ao mundo da tecnologia com ainda mais sede de conhecimento e ideias na cabeça.
 
-💻 Tenho uma forte afinidade pela área **backend**, mas também adoro explorar desenvolvimento web e mobile.  
-🏆 Já fui premiado em iniciação científica com meu projeto sobre análise de vibrações de estacas!
+Tenho uma afinidade especial com a **área de back-end**, onde domino várias linguagens e me divirto criando soluções eficientes. Além disso, também tenho experiência com **sistemas embarcados**, especialmente com **Arduino**, onde uso C/C++ para prototipagem de soluções automatizadas. Já participei de projetos científicos, criei sistemas web e mobile, e mergulhei em diversas áreas da computação com paixão e criatividade.
+
+Sou um Ravenclaw (Corvinal 🦅), MBTI **ISTP**, metódico quando preciso, mas também gosto de improvisar quando a situação pede. Ah, e quando não estou programando? Estou na cozinha testando receitas novas ou registrando momentos através das lentes da minha câmera 📷🍳.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**Back-end:**  
+**Back-end & Lógica:**  
+📌 Forte domínio em lógica de programação  
+🧠 Desenvolvimento com foco em desempenho, estrutura e organização de código  
+🛠️ Experiência com Arduino e sistemas embarcados utilizando C/C++
+
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-(SQL, estruturas de dados e consultas!)
+📂 Estruturação de bancos com SQL  
+🛢️ MySQL para projetos web e locais
 
-**Front-end:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Front-end (Básico):**  
+🧱 Conhecimento em HTML e CSS para interfaces simples  
+🌐 Uso prático para integração com back-end
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Outros:**  
-🔧 WordPress (gerenciamento e criação de sites)  
-🤖 Prompt Engineering para IA (incluindo GitHub Copilot)  
-🔄 Versionamento com Git/GitHub  
+🔧 WordPress (criação, personalização e gestão de sites)  
+🤖 Engenharia de Prompts com IA (ex.: GitHub Copilot)  
+🔄 Versionamento com Git e GitHub  
+☁️ Estudando Azure e integração de soluções web
 
 ---
 
@@ -46,7 +56,7 @@
 
 - ⚙️ **PHP & Azure**
 - 🌐 Aprofundando conhecimentos em **JavaScript** e **JSON**
-- 📈 Explorando mais sobre **desenvolvimento web**
+- 🔌 Conectando tudo isso em projetos web práticos
 
 ---
 
@@ -56,27 +66,28 @@
 |------------|--------------|
 | [A.D.A. Assistente Digital de Atendimento](https://github.com/seu-usuario/A.D.A.Assistente_Digital_Atendimento) | Sistema web para auxiliar a central de relacionamento da **Dtel** (provedora de internet) |
 | [Analisador de Vibrações](https://github.com/seu-usuario/AnalisadorDeVibracoes) | App mobile premiado 🏆 para análise de vibrações de estacas (Projeto de Iniciação Científica pela **UPE**) |
-| [Hypando](https://hypando.com) | Meu site pessoal/blog gerenciado com **WordPress** sobre o mundo do entretenimento|
+| [Hypando](https://hypando.com.br) | Meu site pessoal/blog gerenciado com **WordPress** sobre o mundo do entretenimento (filmes, jogos e series)|
 
 ---
 
-### 📚 Curiosidades
+### 👨‍🍳 Hobbies & Paixões
 
-- 🏅 Premiado com **Destaque de Iniciação Científica** na área de Engenharia da Computação (UPE)  
-- 🚀 Alta capacidade de aprendizado & proatividade  
-- 👨‍💻 Experiência sólida com gerenciamento de projetos e versionamento  
+- 🍳 **Cozinhar**: Um prato bem feito também é uma forma de criatividade!
+- 📷 **Fotografia**: Capturando pequenos detalhes que passam despercebidos
+- 🎮 Cultura geek/nerd: filmes, séries, games e tecnologia sempre no radar
 
 ---
 
 ### 📫 Onde Me Encontrar?  
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almir-soares-aso)  
 📧 **Email:** almir.sdo1998@gmail.com
 
 ---
 
 ### ⚡ Fun Fact  
 
-> "Knowledge is power!" – afinal, Corvinal sempre busca aprender algo novo 😉   
+> "Knowledge is power!" – afinal, Corvinal sempre busca aprender algo novo 😉  
 
-Obrigado por passar por aqui! Bora codar e criar coisas incríveis! 🚀
-portfólio em desenvolvimento
+Obrigado por passar por aqui! Vamos criar coisas incríveis juntos! 🚀
+Portifolio em desenvolvimento...
