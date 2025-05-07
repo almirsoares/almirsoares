@@ -9,11 +9,11 @@
 
 ### 🧩 Sobre Mim
 
-Sou o Almir, um curioso nato, entusiasta da lógica, e sempre pronto para aprender algo novo. Depois de um tempo longe, retornei ao mundo da tecnologia com ainda mais sede de conhecimento e ideias na cabeça.
+Prazer pessoa aqui presente, me chamo Almir, um curioso nato, entusiasta da lógica, e sempre pronto para aprender algo novo. Depois de um tempo longe, retornei ao mundo da tecnologia com ainda mais sede de conhecimento e ideias na cabeça.
 
 Tenho uma afinidade especial com a **área de back-end**, onde domino várias linguagens e me divirto criando soluções eficientes. Além disso, também tenho experiência com **sistemas embarcados**, especialmente com **Arduino**, onde uso C/C++ para prototipagem de soluções automatizadas. Já participei de projetos científicos, criei sistemas web e mobile, e mergulhei em diversas áreas da computação com paixão e criatividade.
 
-Sou um Ravenclaw (Corvinal 🦅), MBTI **ISTP**, metódico quando preciso, mas também gosto de improvisar quando a situação pede. Ah, e quando não estou programando? Estou na cozinha testando receitas novas ou registrando momentos através das lentes da minha câmera 📷🍳.
+Sou um Ravenclaw (Corvinal 🦅), MBTI **ISTP**, metódico quando preciso, mas também gosto de improvisar quando a situação pede. Ah, e quando não estou programando? gosto de interagir com objects da cozinha e ou recolher capturas 2d de espaços 3d de um universo 4d 📷🍳.
 
 ---
 
@@ -72,9 +72,9 @@ Sou um Ravenclaw (Corvinal 🦅), MBTI **ISTP**, metódico quando preciso, mas t
 
 ### 👨‍🍳 Hobbies & Paixões
 
+- 🎮 Cultura geek/nerd: filmes, séries, games e tecnologia sempre no radar
 - 🍳 **Cozinhar**: Um prato bem feito também é uma forma de criatividade!
 - 📷 **Fotografia**: Capturando pequenos detalhes que passam despercebidos
-- 🎮 Cultura geek/nerd: filmes, séries, games e tecnologia sempre no radar
 
 ---
 
@@ -90,4 +90,5 @@ Sou um Ravenclaw (Corvinal 🦅), MBTI **ISTP**, metódico quando preciso, mas t
 > "Knowledge is power!" – afinal, Corvinal sempre busca aprender algo novo 😉  
 
 Obrigado por passar por aqui! Vamos criar coisas incríveis juntos! 🚀
+
 Portifolio em desenvolvimento...
