@@ -19,6 +19,10 @@ Sou um Ravenclaw (Corvinal 🦅), MBTI **ISTP**, metódico quando preciso, mas t
 
 ---
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=almirsoares&show_icons=true&locale=en&layout=compact" alt="almirsoares" />
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 **Back-end & Lógica:**  
@@ -33,6 +37,7 @@ Sou um Ravenclaw (Corvinal 🦅), MBTI **ISTP**, metódico quando preciso, mas t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+
 **Banco de Dados:**  
 📂 Estruturação de bancos com SQL  
 🛢️ MySQL para projetos web e locais
@@ -46,11 +51,15 @@ Sou um Ravenclaw (Corvinal 🦅), MBTI **ISTP**, metódico quando preciso, mas t
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
+
 **Outros:**  
 🔧 WordPress (criação, personalização e gestão de sites)  
 🤖 Engenharia de Prompts com IA (ex.: GitHub Copilot)  
 🔄 Versionamento com Git e GitHub  
-☁️ Estudando Azure e integração de soluções web
+☁️ Estudando node.js e webapps
+
 
 ---
 
